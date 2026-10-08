@@ -1,0 +1,5 @@
+Here are two bots that interface with an SQLite 3 database:
+1. A bot for customers**.**
+2. A bot for workers who fulfill the orders**.**
+Workflow:
+A customer orders a presentation via the customer bot; simultaneously, the worker bot notifies workers that the order has been placed and is available to be picked up. Once a worker accepts and begins the task, the customer can check the status to see if their order has been picked up.
