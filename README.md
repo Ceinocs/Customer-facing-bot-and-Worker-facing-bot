@@ -1,4 +1,3 @@
-﻿# Customer-facing-bot-and-Worker-facing-bot
 Here are two bots that interface with an SQLite 3 database:
 1. A bot for customers**.**
 2. A bot for workers who fulfill the orders**.**
